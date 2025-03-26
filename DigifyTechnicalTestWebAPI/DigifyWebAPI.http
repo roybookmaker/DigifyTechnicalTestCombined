@@ -1,0 +1,7 @@
+@DigifyWebAPI_HostAddress = http://localhost:5253
+
+# GET {{DigifyWebAPI_HostAddress}}/weatherforecast/
+# GET {{DigifyWebAPI_HostAddress}}/registration/
+Accept: application/json
+
+###

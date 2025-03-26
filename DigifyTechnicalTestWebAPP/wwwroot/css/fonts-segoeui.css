@@ -1,0 +1,116 @@
+/* - Fonts Segoe UI - */
+
+/* Regular */
+@font-face {
+    font-family: 'Segoe UI Regular';
+    src: local('Segoe UI'), url('../fonts/SEGOEUI.TTF') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe UI Italic';
+    src: local('Segoe UI Italic'), url('../fonts/SEGOEUII.TTF') format('truetype');
+    font-style: italic;
+}
+
+/* Semibold */
+@font-face {
+    font-family: 'Segoe UI Semibold';
+    src: local('Segoe UI Semibold'), url('../fonts/SEGOEUIB.TTF') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe UI Semibold Italic';
+    src: local('Segoe UI Semibold Italic'), url('../fonts/SEGOEUIBI.TTF') format('truetype');
+    font-style: italic;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'Segoe UI Bold';
+    src: local('Segoe UI Bold'), url('../fonts/SEGOEUIZ.TTF') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe UI Bold Italic';
+    src: local('Segoe UI Bold Italic'), url('../fonts/SEGOEUIZI.TTF') format('truetype');
+    font-style: italic;
+}
+
+/* Light */
+@font-face {
+    font-family: 'Segoe UI Light';
+    src: local('Segoe UI Light'), url('../fonts/SEGOEUIL.TTF') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe UI Light Italic';
+    src: local('Segoe UI Light Italic'), url('../fonts/SEGOEUILI.TTF') format('truetype');
+    font-style: italic;
+}
+
+/* Semilight */
+@font-face {
+    font-family: 'Segoe UI Semilight';
+    src: local('Segoe UI Semilight'), url('../fonts/SEGOEUISL.TTF') format('truetype');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Segoe UI Semilight Italic';
+    src: local('Segoe UI Semilight Italic'), url('../fonts/SEGOEUISLI.TTF') format('truetype');
+    font-style: italic;
+}
+
+/* Class Font Regular */
+.regular {
+    font-family: 'Segoe UI Regular';
+}
+
+.italic {
+    font-family: 'Segoe UI Italic';
+    font-style: italic;
+}
+
+/* Class Font Semibold */
+.semibold {
+    font-family: 'Segoe UI Semibold';
+}
+
+.semibold-italic {
+    font-family: 'Segoe UI Semibold Italic';
+    font-style: italic;
+}
+
+/* Class Font Bold */
+.bold {
+    font-family: 'Segoe UI Bold';
+}
+
+.bold-italic {
+    font-family: 'Segoe UI Bold Italic';
+    font-style: italic;
+}
+
+/* Class Font Light */
+.light {
+    font-family: 'Segoe UI Light';
+}
+
+.light-italic {
+    font-family: 'Segoe UI Light Italic';
+    font-style: italic;
+}
+
+/* Class Font Semilight */
+.semilight {
+    font-family: 'Segoe UI Semilight';
+}
+
+.semilight-italic {
+    font-family: 'Segoe UI Semilight Italic';
+    font-style: italic;
+}
