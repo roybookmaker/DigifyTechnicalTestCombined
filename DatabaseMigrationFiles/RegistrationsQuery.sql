@@ -1,3 +1,9 @@
+CREATE DATABASE localdb;
+GO
+
+USE localdb;
+GO
+
 CREATE TABLE Registrations (
     Id INT PRIMARY KEY IDENTITY,
     CompanyName NVARCHAR(255) NOT NULL,
