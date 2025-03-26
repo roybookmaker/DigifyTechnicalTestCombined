@@ -4,6 +4,7 @@ This repository contains the combined solution for the Digify Technical Test, in
 
 ## Project Structure
 
+- **DatabaseMigrationFiles** : Contains the .sql Query to create the database AND the registration table.
 - **Digify Technical Test Documentation** : Contains screenshots from testing the projects.
 - **DigifyTechnicalTestWebAPI**: The backend Web API project.
 - **DigifyTechnicalTestWebAPP**: The frontend Web Application project.
@@ -34,9 +35,10 @@ To set up and run the projects locally, follow the steps below.
 
 Both API and Web APP already contained into 1 Solution.
 
+0. **Make sure the `RegistrationsQuery.sql` in DatabaseMigrationFiles is executed on SQL Server and the `localdb` database + `Registration` table is created**
 1. **Navigate to the Solution Directory**
 2. **Open the Solution `DigifyTechnicalTestCombined.sln` using Visual Studio**
-3. **Make sure the Launch Profile set to "DigifyStartup"**
+3. **Make sure the Launch Profile set to `DigifyStartup`**
 4. **Press Start**
 
 Windows will launch the service, Swagger Page, and the Web App page.
