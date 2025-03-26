@@ -1,15 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigifyWebApp", "DigifyTechnicalTestWebAPP\DigifyWebApp.csproj", "{39B131CC-4046-4FD9-A001-852D8ADD0D5B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigifyWebAPI", "DigifyTechnicalTestWebAPI\DigifyWebAPI.csproj", "{5BB73FF3-6764-416D-BD0E-CAD526219CBE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatabaseMigrationFiles", "DatabaseMigrationFiles", "{8A780E8F-F59A-4FA9-BE61-A51DD3E1FDB8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatabaseMigrationFiles", "DatabaseMigrationFiles", "{F033199D-8859-4A79-AD45-88B24D61D488}"
 	ProjectSection(SolutionItems) = preProject
-		DigifyTechnicalTestWebAPP\DatabaseMigrationFiles\RegistrationsQuery.sql = DigifyTechnicalTestWebAPP\DatabaseMigrationFiles\RegistrationsQuery.sql
+		DatabaseMigrationFiles\RegistrationsQuery.sql = DatabaseMigrationFiles\RegistrationsQuery.sql
 	EndProjectSection
 EndProject
 Global
