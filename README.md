@@ -35,7 +35,7 @@ To set up and run the projects locally, follow the steps below.
 Both API and Web APP already contained into 1 Solution.
 
 1. **Navigate to the Solution Directory**
-2. **Open the Solution using Visual Studio**
+2. **Open the Solution `DigifyTechnicalTestCombined.sln` using Visual Studio**
 3. **Make sure the Launch Profile set to "DigifyStartup"**
 4. **Press Start**
 
